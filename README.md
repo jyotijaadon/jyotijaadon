@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyotiSingh
 - 👀 I’m interested in .net, angular and nodejs
-- 🌱 I’m currently learning nodejs js and dong project with nodejs
+- 🌱 I’m currently learning nodejs js and doing project with nodejs
 - 📫 How to reach me - send me mail on this emailid jyotisinghjaadon@gmail.com
 
 <!---
